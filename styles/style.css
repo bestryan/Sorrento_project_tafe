@@ -67,7 +67,7 @@ header a{
 }
 
 .banner{
-    background-image: url("../images/Sorrento_banner.jpg");
+    background-image: url("./images/Sorrento_banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
